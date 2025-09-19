@@ -1,6 +1,6 @@
 {
   "NAME": "KerbalObjectInspector",
-  "URL": "https://raw.githubusercontent.com/linuxgurugamer/KerbalObjectInspector/refs/heads/master/KerbalObjectInspector.version",
+  "URL": "http://ksp.spacetux.net/avc/KerbalObjectInspector",
   "DOWNLOAD": "https://github.com/linuxgurugamer/KerbalObjectInspector/releases",
   "GITHUB": {
     "USERNAME": "linuxgurugamer",
@@ -10,21 +10,16 @@
     "MAJOR": 1,
     "MINOR": 2,
     "PATCH": 0,
-    "BUILD": 1
+    "BUILD": 0
   },
   "KSP_VERSION": {
     "MAJOR": 1,
     "MINOR": 12,
-    "PATCH": 5
+    "PATCH": 3
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
     "MINOR": 12,
     "PATCH": 0
-  },
-  "KSP_VERSION_MAX": {
-    "MAJOR": 1,
-    "MINOR": 12,
-    "PATCH": 99
   }
 }
